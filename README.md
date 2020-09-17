@@ -11,11 +11,15 @@ The most successful Theater Kickstarter campaigns were launched in May.
 
 While the Kickstarter data includes live campaigns, this data was removed from the analysis because the outcome has yet to be determined.
 
+![test](https://github.com/Jmsambaj/Kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 There is a downwards trend for Play kickstarter funding goals and their success rates. The campaigns with the highest success rates have the lowest funding goals while the lowest success rates have the highest funding goals
 
 While the Kickstarter data includes live campaigns, this data was removed from the analysis because the outcome has yet to be determined.
+
+![test](https://github.com/Jmsambaj/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
+
 
 ### Challenges and Difficulties Encountered
 

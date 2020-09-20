@@ -34,6 +34,4 @@ There is an inverse relationship for Play kickstarter funding goals and their su
 
 In conclusion, the best chance of having a successful theater Kickstarter campaign is to have the launch date set in the month of May. After May, there is a downwards trend of success rates as the year progressess. The least chance of having a successful theater Kickstarter campaign is to have the launch date set in the month of December. As for eastablishing a goal amount, The highest rate of success for Play kickstarter campaign goals is to have a campaign goal no more than $5000. A limitation to the data set is the most recent record being dated in 2017. We do not have any data from the last 3 years to further determine the most ideal launch date or goal amount to for a successul campaign.
 
-
-- What are some other possible tables and/or graphs that we could create?
 We can utilize linear regression lines to further illustrate our data trends.

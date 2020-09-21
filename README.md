@@ -2,11 +2,10 @@
 Performing analysis on Kickstarter data to uncover trends
 
 ### Overview of the Project
-We have a Kickstarter dataset containing fundraising information on different cases from accross the world spanning from 2010 to 2017. Our data includes categries like the campaign names, description, funding goals, funded amounts, campaign status and outcomes, country of launch, launch date, etc. 
-Our client, Louise, launched her play called Fever and it came close to its fundraising goal in a short amount of time. Louise is now curious about different campaign outcomes related to their launch dates and funding goals
+We have a Kickstarter dataset containing information on different cases from accross the world spanning from 2010 to 2017. Our data includes campaign data from start to finish. Some of the information includes, the campaign type, name, outcome, funding goal, and launch date. Our client, Louise, is planning to launch a campaign to help fund her play, Fever. Louise is looking to gain a better understanding on whether or not there are specific factors that make a campaign successful so she can set up campaign to mirror successful campaigns in the same category.
 
 ### Purpose
-The purpose of this analysis is to identify how different Kickstarter campaigns fared in relation to their launch dates and their funding goals.
+The purpose of this analysis is to identify how different Kickstarter campaigns fare in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 

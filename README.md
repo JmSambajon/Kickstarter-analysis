@@ -27,7 +27,7 @@ The purpose of this analysis is to identify how different Kickstarter campaigns 
 
 ### Challenges and Difficulties Encountered
 
-
+One of the difficulties encountered was formatting all of the launch dates into months. Excel would not let me "group the selection" the frist few times around but after some data reformatting, I was able to get the data formatted by month. Another Challenge I ran into was getting the "Outcomes vs. Goals" chart to show all outcome categories, "successful", "failed" and "canceled". I had to change the chart type a few times in order to get the right one to properly illustrate the outcomes.
 
 ## Results
 

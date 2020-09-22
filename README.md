@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends
 
 ### Overview of the Project
-  We have a Kickstarter dataset containing information on different cases from accross the world spanning from 2010 to 2017. Our data includes information on entire campaign timelines from start to finish. Some of the information includes, the campaign type, name, outcome, funding goal, and launch date. Louise, an upcoming playwright, is planning to launch a campaign to help fund her play, Fever. Louise is looking to gain a better understanding on whether or not there are specific factors that make a campaign successful so she can set up herself up to mirror successful campaigns in the same category.
+  We have a Kickstarter dataset containing information on different cases from across the world spanning from 2010 to 2017. Our data includes information on entire campaign timelines from start to finish. Some of the information includes, campaign type, campaign name, outcome, funding goal, and launch date. Louise, an upcoming playwright, is planning to launch a campaign to help fund her play, Fever. Louise is looking to gain a better understanding on whether or not there are specific factors that make a campaign successful so she can set up herself up to mirror successful campaigns in the same category.
 
 ### Purpose
 The purpose of this analysis is to identify how different Kickstarter campaigns fare in relation to their launch dates and their funding goals.
@@ -27,7 +27,7 @@ The purpose of this analysis is to identify how different Kickstarter campaigns 
 
 ### Challenges and Difficulties Encountered
 
-One of the difficulties encountered was formatting all of the launch dates into months. Excel would not let me "group the selection" the frist few times around but after some data reformatting, I was able to get the data formatted by month. Another Challenge I ran into was getting the "Outcomes vs. Goals" chart to show all outcome categories, "successful", "failed" and "canceled". I had to change the chart type a few times in order to get the right one to properly illustrate the outcomes.
+One of the difficulties encountered was formatting all of the launch dates into months. Excel would not let me "group the selection" the frist few times around but after trying a few different methods, I was able to get the data formatted by month. Another Challenge I ran into was getting the "Outcomes vs. Goals" chart to show all outcome categories, "successful", "failed" and "canceled". I had to change the chart type a few times in order to get the right one to properly illustrate the outcomes.
 
 ## Results
 
